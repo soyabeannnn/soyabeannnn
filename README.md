@@ -20,7 +20,7 @@
 -   🤖 Robotics
 -   🖥️ Web Applications
 -   📱 Mobile Applications
-- 📬 How to reach me: [Linkedin](www.linkedin.com/in/lee-jia-yi-0679b2242)
+- 📬 How to reach me:[![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lee-jia-yi-0679b2242/)
 
 ---
 ### 🛠️ Languages and Tools: 
